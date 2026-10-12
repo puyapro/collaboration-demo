@@ -1,2 +1,4 @@
 Collaboration Demo Project
 Version 1.0
+
+Description: A beginner-friendly project for learning Git and GitHub collaboration.

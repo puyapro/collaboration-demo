@@ -1,2 +1,4 @@
 Collaboration Demo Project
 Version 1.0
+
+Description: A project for practicing GitHub collaboration.
